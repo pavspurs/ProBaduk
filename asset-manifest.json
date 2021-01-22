@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProBaduk/static/css/main.388f1f3d.chunk.css",
+    "main.js": "/ProBaduk/static/js/main.fe1b4ce7.chunk.js",
+    "main.js.map": "/ProBaduk/static/js/main.fe1b4ce7.chunk.js.map",
+    "runtime-main.js": "/ProBaduk/static/js/runtime-main.02e8215a.js",
+    "runtime-main.js.map": "/ProBaduk/static/js/runtime-main.02e8215a.js.map",
+    "static/js/2.8de1660f.chunk.js": "/ProBaduk/static/js/2.8de1660f.chunk.js",
+    "static/js/2.8de1660f.chunk.js.map": "/ProBaduk/static/js/2.8de1660f.chunk.js.map",
+    "index.html": "/ProBaduk/index.html",
+    "static/css/main.388f1f3d.chunk.css.map": "/ProBaduk/static/css/main.388f1f3d.chunk.css.map",
+    "static/js/2.8de1660f.chunk.js.LICENSE.txt": "/ProBaduk/static/js/2.8de1660f.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/ProBaduk/static/media/3rd_ProBaduk.70b88fb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e8215a.js",
+    "static/js/2.8de1660f.chunk.js",
+    "static/css/main.388f1f3d.chunk.css",
+    "static/js/main.fe1b4ce7.chunk.js"
+  ]
+}
